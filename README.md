@@ -1,4 +1,4 @@
-# 💫 Vishal here!!
+# ![ezgif com-optimize](https://user-images.githubusercontent.com/84759819/233806290-c87bfb8c-146d-4a6d-9fb5-fa4153eb623c.gif) Vishal here!!
 <br>⚡I Love Making Websites and Coffee<br> <br>📫 How to reach me --> [Linkedin](https://www.linkedin.com/in/vishal-kumawat-759235253/) <br> <br>👯 I’m looking to collaborate on Full Stack Projects<br>
 
 # 💻 Tech Stack:
