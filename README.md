@@ -6,13 +6,5 @@
 
 ![new-gif](https://user-images.githubusercontent.com/84759819/233804410-4c48d9ab-3d5d-438c-998a-d88912e14010.gif)
 
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishal-kumawat-official&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishal-kumawat-official&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-kumawat-official&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=vishal-kumawat-official&icon=2&color=3)](https://visitcount.itsvg.in)
